@@ -1,28 +1,29 @@
 ## Hi there 👋
 
-🙋‍♀️ **What are we building?**  
-We are developing an intelligent application that brings **personal AI into project management and chat**, helping individuals and teams manage everything they want to handle in one unified workspace.
+🙋‍♀️ **What are we building?**
+We are creating a **portable, embeddable voice ecosystem** where your interactions feel less like using software and more like talking to a trusted companion. Think of it as having the capabilities of Siri, but completely decoupled from a specific device—an intelligent voice presence you can plug into an app, a game, or any digital environment. 
 
-Our platform combines **AI-powered project management with conversational interaction**, allowing users to plan, organize, and execute tasks simply by talking to their AI. No more switching between tools—your projects, conversations, and decisions live together.
+Our goal is to build a standalone, empathetic assistant that you actually *want* to talk to. While it has the rigorous capabilities of a full system manager, that complexity is completely hidden behind a **natural, fluid voice interface**.
 
-A key feature of our system is **agent modularity**. Users can import, create, or connect any AI agent they want—such as planners, researchers, mentors, financial assistants, health trackers, or fully custom agents—and use them seamlessly across their personal and professional life.
+**Key Highlights:**
+- **Portable Voice Integration:** Our voice agent isn't locked to one platform. It is designed to be embedded anywhere—whether you need a companion in a game, a guide in an app, or an assistant for your personal tasks.
+- **Voice as the Primary Interface:** We focus on the texture and feeling of the interaction. You don't manage a dashboard; you speak to the AI, and it orchestrates the actions in the background for you.
+- **Agent Modularity:** Because the voice is an independent layer, users and developers can connect it to different logic engines, allowing the voice interface to handle distinct aspects of life, work, or entertainment.
 
-🌈 **How can you contribute?**  
-We welcome contributors from all backgrounds—developers, designers, AI researchers, and product thinkers.
-- Improve core features and integrations  
-- Build or share custom agents  
-- Help with documentation, testing, and UX  
-- Share ideas and feedback through issues and discussions  
+🌈 **How can you contribute?**
+We are looking for contributors passionate about **Speech Processing**, **Natural Language Understanding**, and **Human-Computer Interaction**.
+- Refine the voice interaction pipelines and audio processing
+- Build integrations to embed the voice agent into new apps, games, or platforms
+- Improve the "personality," latency, and responsiveness of the AI
+- Help with documentation and developer tools for easy embedding
 
-👩‍💻 **Useful resources**  
-- Documentation and setup guides (coming soon)  
-- API & agent integration references  
-- Architecture and roadmap updates  
-- Community discussions and examples  
+👩‍💻 **Useful resources**
+- Documentation (Voice & Embed API focus) - *coming soon*
+- Agent integration standards
+- Roadmap: Making intelligent voice truly portable
 
-🍿 **Fun facts**  
-Our team believes great ideas start with good coffee ☕, clear thinking, and a strong belief that AI should work *for* people, not the other way around.
+🍿 **Fun facts**
+We believe that the most powerful tool is the human voice. Our inspiration comes from the idea that technology shouldn't just be smart; it should have "soul"—capable of understanding the emotion behind the command, no matter where it is installed.
 
-🧙 **Our mission**  
-To simplify complexity by turning AI into a **personal, practical, and extensible manager**—one that understands your goals, adapts to your context, and helps you manage work, projects, and life seamlessly.
-
+🧙 **Our mission**
+To replace rigid menus and silent buttons across any platform with a **voice you trust**. We aim to create a space where complex actions happen effortlessly in the background, driven entirely by a simple, human conversation.
